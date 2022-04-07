@@ -1,0 +1,12 @@
+{
+  "contacts": [
+    {
+      "firstName": "Tomáš",
+      "lastName": "Růžička",
+      "phoneNumber": "+420 123 456 789",
+      "note": "",
+      "specificId": "TOMAS_RUZICKA",
+      "id": 1
+    }
+  ]
+}

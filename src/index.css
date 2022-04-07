@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  /* margin: 0; */
+  padding: 0;
+}
+
+footer {
+  margin-top: 50px;
+  padding: 50px 0 10px 0;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.textField {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+  display: block !important;
+}
+
+.about {
+  text-align: center;
+}
+
+.container {
+  /* border: 1px solid #000000; */
+  height: 80vh;
+}
+
+.note {
+  white-space: normal;
+  word-break: break-all;
+}
